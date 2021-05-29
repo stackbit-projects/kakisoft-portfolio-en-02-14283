@@ -11,7 +11,6 @@ sections:
       This website was created for me to learn English.
   - section_id: about
     type: section_content
-    title: About mE
     content: >
       ## About me
 
