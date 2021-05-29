@@ -13,6 +13,9 @@ sections:
     type: section_content
     title: About mE
     content: >
+      ![](/\_static/app-assets/images/2.jpg)
+
+
       I use the name "kakisoft" on the internet.
 
       Please call me "kaki".
