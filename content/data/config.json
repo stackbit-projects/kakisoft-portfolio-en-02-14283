@@ -22,11 +22,6 @@
                 "style": "link"
             },
             {
-                "label": "now creating...",
-                "url": "/style-guide/",
-                "style": "link"
-            },
-            {
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
