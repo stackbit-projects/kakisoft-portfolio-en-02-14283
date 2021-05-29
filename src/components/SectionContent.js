@@ -24,9 +24,9 @@ export default class SectionContent extends React.Component {
                 )}
                 {content && <div className="block-content inner-sm">{markdownify(content)}</div>}
                 {!_.isEmpty(actions) && (
-                    // <div className="block-buttons inner-sm">
-                    //     <CtaButtons actions={actions} />
-                    // </div>
+                    <div className="block-buttons inner-sm">
+                        <CtaButtons actions={actions} />
+                    </div>
                 )}
             </section>
         );
