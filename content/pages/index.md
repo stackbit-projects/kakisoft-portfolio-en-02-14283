@@ -29,10 +29,7 @@ sections:
       Our new service will launch on September 1st.
 
       So, I have to work hard.
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: button
+    actions: []
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
