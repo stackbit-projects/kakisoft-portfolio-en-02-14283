@@ -32,7 +32,7 @@ sections:
 
       So, I have to work hard.
     actions: []
-  - title: "\bAbout life"
+  - title: "\b"
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
