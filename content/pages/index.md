@@ -35,7 +35,7 @@ sections:
   - title: "\b"
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: |+
+    content: |
       ## LIFE
 
       I have two sons.
@@ -44,7 +44,6 @@ sections:
 
       Sometimes, they disturb me during in my work and online English lesson.
       But, they are really cute.
-
     actions: []
     type: section_content
   - section_id: lorem-ipsum
