@@ -8,8 +8,6 @@ sections:
     content: |
       Hi! Thank you for visiting my website.
 
-
-      I'm a Software Engineer.
       This website was created for me to learn English.
   - section_id: about
     type: section_content
