@@ -12,11 +12,23 @@ sections:
   - section_id: about
     type: section_content
     title: About mE
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      I use the name "kakisoft" on the internet.
+
+      Please call me "kaki".
+
+
+      I'm a Software Engineer. I often use Laravel, React, and AWS.
+
+      And also I specialize in logistics because I have created many logistics
+      systems.
+
+
+      I am creating a new system now.
+
+      Our new service will launch on September 1st.
+
+      So, I have to work hard.
     actions:
       - label: Contact Me
         url: /contact
